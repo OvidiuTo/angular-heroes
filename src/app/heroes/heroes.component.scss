@@ -1,9 +1,21 @@
-/* HeroesComponent's private CSS styles */
+h2{
+  text-align: center;
+  font-size: 30px;
+  opacity: 0.85;
+  color:white;
+}
+div{
+  text-align: center;
+  color:white;
+  font-weight: bold;
+  margin:auto;
+}
 .heroes {
-  margin: 0 0 2em 0;
+ 
   list-style-type: none;
   padding: 0;
   width: 15em;
+  margin:auto;
 }
 .heroes li {
   position: relative;

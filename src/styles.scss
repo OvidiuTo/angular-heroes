@@ -11,7 +11,11 @@ h1 {
     font-weight: lighter;
   }
   body {
-    margin: 2em;
+  margin: 2em;
+  background-image:url(ionia3.png); 
+  background-size: cover;
+  background-position:center;
+  background-repeat: no-repeat;
   }
   body, input[type="text"], button {
     color: #333;
